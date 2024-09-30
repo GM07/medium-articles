@@ -7,4 +7,4 @@ Datasets used :
 - [Friends Series Dataset](https://www.kaggle.com/datasets/rezaghari/friends-series-dataset)
 
 # Articles
-- [The One With ML : A Data Science Journey Through Central Perk]()
+- [The One With ML : A Data Science Journey Through Central Perk](https://medium.com/@mehgaya/the-one-with-ml-a-data-science-journey-through-central-perk-473f305544c5)
